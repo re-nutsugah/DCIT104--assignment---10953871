@@ -1,3 +1,5 @@
+#I, Richard E. Nutsugah (10953871), certify that i did this by  myself.
+
 def ave_even(max):
     even_num = []
     res = 0
